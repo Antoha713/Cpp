@@ -1,0 +1,3 @@
+C:/Users/Metal/CLionProjects/C++/LB-24/cmake-build-debug/CMakeFiles/LB_24.dir
+C:/Users/Metal/CLionProjects/C++/LB-24/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Metal/CLionProjects/C++/LB-24/cmake-build-debug/CMakeFiles/rebuild_cache.dir
